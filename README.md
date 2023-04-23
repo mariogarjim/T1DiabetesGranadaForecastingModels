@@ -1,3 +1,5 @@
+Author: Mario García Jiménez 
+
 # TFG
 
 This project is developed in collaboration with the Hospital Universitario San Cecilio from Granada.
