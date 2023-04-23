@@ -10,7 +10,7 @@ Dataset analysis........... Done
 
 Dataset Preprocessing...... Done
 
-Hyperparmaters Tuning...... In progress
+Hyperparameters Tuning...... In progress
 
 Model Selection and Training
 
