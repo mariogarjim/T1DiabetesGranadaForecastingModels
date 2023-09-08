@@ -2,19 +2,7 @@ Author: Mario García Jiménez
 
 # TFG
 
-This project is developed in collaboration with the Hospital Universitario San Cecilio from Granada.
-
+This repo contains the associated code of the thesis dIAbetes: Analysing diabetes mellitus data using artificial intelligence techniques.
 The objective of this thesis is to develop a Machine Learning model that allows predictions about blood glucose levels in patients with type 1 diabetes using data from real patients.
 
-## Project Status
-
-Dataset analysis........... Done
-
-Dataset Preprocessing...... Done
-
-Hyperparameters Tuning...... In progress
-
-Model Selection and Training
-
-Analysis of results
 
